@@ -20,11 +20,11 @@
 
 ## About Me
 
-I'm a CS student at the **University of Engineering and Technology, Peshawar**, specializing in backend development. I build scalable APIs and server-side systems with a focus on clean architecture and production-ready code.
+I'm a CS student at the **University of Engineering and Technology, Peshawar** with a broad skill set spanning backend, mobile, and systems development. I build scalable APIs and cross-platform mobile apps with a focus on clean architecture and production-ready code.
 
-- 🔭 Currently building backend services with Node.js and Express.js
+- 🔭 Currently building backend services with Node.js and mobile apps with Flutter & React Native
 - 🌱 Expanding into TypeScript, Docker, and cloud deployment (AWS)
-- 💼 Open to backend developer opportunities and collaborations
+- 💼 Open to backend and mobile developer opportunities and collaborations
 - 📍 Based in Pakistan
 
 ---
@@ -39,6 +39,14 @@ I'm a CS student at the **University of Engineering and Technology, Peshawar**, 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Mobile & Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
