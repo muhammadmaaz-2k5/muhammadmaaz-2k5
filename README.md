@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Muhammad Maaz 👋</h1>
 
-<!--
-**muhammadmaaz-2k5/muhammadmaaz-2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Backend Developer</b> · Node.js · REST APIs · Database Systems
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-maaz-a9277435b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/muhammadmaaz-2k5">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:22pwbcs0933@uetpeshawar.edu.pk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a CS student at the **University of Engineering and Technology, Peshawar**, specializing in backend development. I build scalable APIs and server-side systems with a focus on clean architecture and production-ready code.
+
+- 🔭 Currently building backend services with Node.js and Express.js
+- 🌱 Expanding into TypeScript, Docker, and cloud deployment (AWS)
+- 💼 Open to backend developer opportunities and collaborations
+- 📍 Based in Pakistan
+
+---
+
+## Tech Stack
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **REST API Platform** | Structured backend services with routes, controllers, and services following clean architecture | Node.js, Express.js, REST API |
+| **Authentication System** | Full auth flow with registration, login, JWT tokens, and protected routes | Node.js, Express, JWT |
+| **Database-driven Applications** | Schema design, CRUD operations, and data validation across multiple database systems | MongoDB, PostgreSQL, MySQL |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmaaz-2k5&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmaaz-2k5&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## Education
+
+🎓 **BS Computer Science** — University of Engineering and Technology, Peshawar *(In Progress)*
+
+---
+
+<p align="center">
+  <i>Open to backend developer roles and collaborative projects.</i><br/>
+  <a href="mailto:22pwbcs0933@uetpeshawar.edu.pk">22pwbcs0933@uetpeshawar.edu.pk</a>
+</p>
