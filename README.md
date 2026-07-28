@@ -115,7 +115,12 @@ I'm a Full Stack Developer focused on building scalable SaaS applications, AI-po
 ## GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadmaaz-2k5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmaaz-2k5&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmaaz-2k5&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
