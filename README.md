@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Maaz</h1>
-<h3 align="center">Full Stack & AI Developer | Node.js • Next.js • React • TypeScript</h3>
+<h3 align="center">
+🚀 Full Stack & AI Engineer | Building Scalable Web Applications, Intelligent AI Systems & Modern SaaS Solutions
+</h3>
 
 <p align="center">
 Building scalable web applications, AI-powered products, and production-ready backend systems.
