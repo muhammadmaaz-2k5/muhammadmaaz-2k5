@@ -15,7 +15,7 @@ Building scalable web applications, backend systems, SaaS platforms, and modern 
 <a href="https://github.com/muhammadmaaz-2k5">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:muhamamdmaaz65@gmail.com">
+<a href="mailto:muhammadmaaz.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -199,7 +199,7 @@ University of Engineering & Technology (UET), Peshawar
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [muhamamdmaaz65@gmail.com](mailto:muhamamdmaaz65@gmail.com)
+📧 **Email:** [muhammadmaaz.dev@gmail.com](mailto:muhammadmaaz.dev@gmail.com)
 
 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-maaz-a9277435b/
 
